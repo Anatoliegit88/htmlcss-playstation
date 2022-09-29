@@ -1,0 +1,13 @@
+.cta {
+  color: white;
+}
+.image-cta {
+  width: 80px;
+}
+img {
+  max-width: 100%;
+}
+.card {
+  height: 400px;
+  background-size: cover;
+}
