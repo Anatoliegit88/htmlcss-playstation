@@ -7,7 +7,10 @@
 img {
   max-width: 100%;
 }
-.card {
-  height: 400px;
+.hero .card {
+  height: 100vh;
+  background-image: url("/img/jumbo-bg.png");
   background-size: cover;
+  background-position: center center;
+  margin-top: 108px;
 }
